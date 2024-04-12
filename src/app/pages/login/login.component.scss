@@ -1,0 +1,32 @@
+.btn-login{
+    color: black;
+    font-weight: bold;
+    border: 0;
+    background-color: #FDE767 !important;
+}
+
+.btn-signup{
+    color:#FDE767;
+    font-weight: bold;
+    background-color: black;
+    border-color: #FDE767;
+}
+
+.input-login{
+    background-color: rgba(255, 255, 255, .4);
+}
+
+.bg{
+    background-image: url('../../../assets/bg.jpg');
+    background-position: center;
+    background-size: 100%;
+    background-repeat: no-repeat;
+}
+
+.underline{
+    text-decoration: underline;
+}
+
+.underline:hover{
+    cursor: pointer;
+}
